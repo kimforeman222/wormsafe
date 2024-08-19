@@ -1,3 +1,5 @@
+#RUN THIS AT YOUR OWN RISK IT WILL CRASH YOUR COMPUTER. RUNNING IT ON A CODE EDITOR IS UNSAFE.
+
 import os
 import shutil
 from pathlib import Path
